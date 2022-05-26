@@ -28,6 +28,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - Texture2D_60e851c352ae464487526de2d80c07fa:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _BaseMap:
         m_Texture: {fileID: 2800000, guid: bc5ca5215efc31e4e97b0412183e6da1, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -86,13 +90,19 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - Vector1_079c29488f994feea9d458153cd204d0: -0.1
+    - Vector1_33a21e0659204dd9b21afb6459c10d3b: 3.1
+    - Vector1_50a54871059542faa9a693890744d557: -0.08
     - Vector1_5de4bfdee48a463b85537df891822564: 0
     - Vector1_5e0e4d016ab9444aa6475ebb9c7d483f: -0.01
     - Vector1_894477121f5944c4a437d55e1c9046db: 0
     - Vector1_a050193592c847d3abd87d9a5abc894e: 11.41
     - Vector1_c3d7f2cd23164dbdae70262f02836bbf: 4.6
+    - Vector1_cf364ba5a0d3410cbee56fb7f1bb976d: 2.22
     - Vector1_d58b1d2f6e1e4f8791a1f0371c1bffba: 0.72
     - Vector1_d7aeca1b1b3241a9bee8ec284dbac586: 12.83
+    - Vector1_d924a633a2e74abebe982381cb908c2a: 0.49
+    - Vector1_dabfb30d3e5c4474aa0b8d0540a68eff: 0.12
+    - Vector1_ffb6264fcf094eb8aa49acebd5286b86: 0
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -112,6 +122,7 @@ Material:
     - _Parallax: 0.005
     - _QueueOffset: 0
     - _ReceiveShadows: 1
+    - _RotationAmount: -0.01
     - _Smoothness: 0.279
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
@@ -121,13 +132,16 @@ Material:
     - _ZWrite: 1
     m_Colors:
     - Color_04e1b6891f84487d826243ed86394cb8: {r: 1, g: 0, b: 0, a: 0}
+    - Color_2838e82666724aeb8d85e67e32d3b248: {r: 1, g: 1, b: 1, a: 0}
     - Color_7a14027b4c4841fea7eac42612f85110: {r: 1, g: 1, b: 1, a: 0}
     - Vector3_193b809415bf46b493078b40e6f25fbf: {r: 0, g: 0, b: -6, a: 0}
+    - Vector3_39e26b1addd94d62b9c9603ce9aadfdb: {r: 0, g: 0, b: -9.74, a: 0}
     - Vector3_51707520663c4eb78fb320e87f86b611: {r: 0, g: 0, b: -8.84, a: 0}
     - Vector3_ced97fe584a54c009829cc9db1511896: {r: 1, g: 0, b: 0, a: 0}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _PivotOffset: {r: 0, g: 0, b: -5.65, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &6035766131627318743
